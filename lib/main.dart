@@ -8,37 +8,8 @@ class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
 
   // This widget is the root of your application.
-  //HAMED
-  //HAMED
-  //HAMED
-  //HAMED
-  //HAMED
-  //HUSSEIN HUSSEIN 2
-  //HUSSEIN
-  //HUSSEIN
-  //HUSSEIN
-  //HUSSEIN
-  //HUSSEIN
-  //HUSSEIN
-  //HAMED
-  //HAMED
-  //HAMED
-  //HAMED
-  //HAMED
-  //HUSSEIN
-  //HUSSEIN
-  //HUSSEIN
-  //HUSSEIN
-  //HUSSEIN
-  //HUSSEIN
-  //HUSSEIN
 
-  //Done
-  //Done
-  //Done
-  //Done
-  //Done
-
+  //12/18/2022 hussein login page
 
   @override
   Widget build(BuildContext context) {
