@@ -11,13 +11,13 @@ class MyApp extends StatelessWidget {
   // home from hussein
   // home 12121
   // home 4
-  // from android not console
+  // from android not console 2
 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      color: Colors.yellow,
-      debugShowMaterialGrid: true,
+      color: Colors.redAccent,
+      debugShowMaterialGrid: false,
       title: 'Flutter Demo from hussein',
       theme: ThemeData(
         // This is the theme of your application.
