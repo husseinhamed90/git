@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   // home from hussein
   // home 12121
   // home 4
-  // from console==============================
+  // from console
 
   @override
   Widget build(BuildContext context) {
