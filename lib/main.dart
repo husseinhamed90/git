@@ -9,10 +9,11 @@ class MyApp extends StatelessWidget {
 
   // This widget is the root of your application.
   // home from hussein
+  // home 20000000000001111111111111111111111110
   // home 12121
   // home 20
   // huhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuh
-  // home 20000000000
+  // home 20000000000000000000000000000000000
   // from android not console 6800000000000009
 
   @override
