@@ -11,16 +11,17 @@ class MyApp extends StatelessWidget {
   // home from hussein
   // home 12121
   // home 20
-  // from android not console 2
+  // homew 10000000000
+  // from android not console 20000000000000
 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      color: Colors.orange,
-      debugShowMaterialGrid: true,
-      title: 'Flutter',
+      color: Colors.black,
+      debugShowMaterialGrid: false,
+      title: 'hussein',
       theme: ThemeData(
-        backgroundColor: Colors.blue,
+        backgroundColor: Colors.red,
         // This is the theme of your application.
         //
         // Try running your application with "flutter run". You'll see the
