@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       color: Colors.black,
       debugShowMaterialGrid: false,
-      title: 'mohamed000000000000',
+      title: 'i remove your work',
       theme: ThemeData(
         backgroundColor: Colors.teal,
  
