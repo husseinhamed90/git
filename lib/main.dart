@@ -16,9 +16,9 @@ class MyApp extends StatelessWidget {
       debugShowMaterialGrid: false,
       title: 'hussein',
       theme: ThemeData(
-        backgroundColor: Colors.red,
+        backgroundColor: Colors.teal,
  
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.yellow,
       ),
       home: const MyHomePage(title: 'Flutter Demo Home Page'),
     );
