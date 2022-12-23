@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       color: Colors.black,
       debugShowMaterialGrid: false,
-      title: 'ahmed from task 4 again',
+      title: 'ahmed from task 4',
       theme: ThemeData(
         backgroundColor: Colors.teal,
  
@@ -44,7 +44,7 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  int _counter = 0;
+  int _counter = 2;
 
   void _incrementCounter() {
     setState(() {
