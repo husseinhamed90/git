@@ -12,9 +12,9 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      color: Colors.blue,
-      debugShowMaterialGrid: true,
-      title: 'ahmed from task 4',
+      color: Colors.black,
+      debugShowMaterialGrid: false,
+      title: 'ahmed from task 4 again',
       theme: ThemeData(
         backgroundColor: Colors.teal,
  
